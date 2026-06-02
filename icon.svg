@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#1a1a2e"/>
+  <rect x="40" y="40" width="432" height="432" rx="60" fill="#2d1b4e"/>
+  <text x="256" y="200" font-family="Georgia,serif" font-size="120" font-weight="900" fill="#c9a84c" text-anchor="middle">AT</text>
+  <line x1="100" y1="260" x2="412" y2="260" stroke="#c9a84c" stroke-width="3" opacity="0.5"/>
+  <text x="256" y="340" font-family="Georgia,serif" font-size="52" fill="#c9a84c" text-anchor="middle" opacity="0.7">Asistentes</text>
+  <text x="256" y="390" font-family="Georgia,serif" font-size="36" fill="#c9a84c" text-anchor="middle" opacity="0.5">de Tienda</text>
+</svg>
